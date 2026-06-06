@@ -1,0 +1,28 @@
+{
+  "package_json_parse": true,
+  "package_json_no_null": true,
+  "main_syntax": true,
+  "main_stderr": "",
+  "preload_syntax": true,
+  "preload_stderr": "",
+  "app_syntax": true,
+  "app_stderr": "",
+  "v53_editor": {
+    "renderBankQuestions_override": true,
+    "save_qcm": true,
+    "add_question": true,
+    "delete_question": true,
+    "move_question": true,
+    "new_qcm_kept": true,
+    "forms_export_kept": true
+  },
+  "no_null_bytes_critical": {
+    "package.json": true,
+    "main.js": true,
+    "preload.js": true,
+    "app/index.html": true,
+    "app/style.css": true,
+    "app/app.js": true,
+    ".github/workflows/build-windows.yml": true
+  }
+}

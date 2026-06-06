@@ -1,0 +1,41 @@
+{
+  "package_json_parse": true,
+  "package_json_no_null": true,
+  "main_syntax": true,
+  "main_stderr": "",
+  "preload_syntax": true,
+  "preload_stderr": "",
+  "app_syntax": true,
+  "app_stderr": "",
+  "button_fix_v48": {
+    "renderBank_btnNewQcm": true,
+    "renderBank_btnDuplicateQcm": true,
+    "onclick_new": true,
+    "onclick_duplicate": true,
+    "create_func": true,
+    "duplicate_func": true
+  },
+  "agent_status_session": {
+    "ensure_status": true,
+    "render_table": true,
+    "status_waiting": true,
+    "status_completed": true,
+    "status_absent": true,
+    "manual_status_change": true
+  },
+  "previous_features_kept": {
+    "forms_export": true,
+    "theme_bank": true,
+    "stats_selection": true,
+    "reports": true
+  },
+  "no_null_bytes_critical": {
+    "package.json": true,
+    "main.js": true,
+    "preload.js": true,
+    "app/index.html": true,
+    "app/style.css": true,
+    "app/app.js": true,
+    ".github/workflows/build-windows.yml": true
+  }
+}

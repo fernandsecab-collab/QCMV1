@@ -1,0 +1,39 @@
+{
+  "package_json_parse": true,
+  "package_json_no_null_bytes": true,
+  "package_json_size_bytes": 1265,
+  "main_js_syntax": true,
+  "main_js_stderr": "",
+  "preload_js_syntax": true,
+  "preload_js_stderr": "",
+  "app_js_syntax": true,
+  "app_js_stderr": "",
+  "required_files_present": {
+    "package.json": true,
+    "main.js": true,
+    "preload.js": true,
+    "app/index.html": true,
+    "app/style.css": true,
+    "app/app.js": true,
+    "build/icon.png": true,
+    "build/icon.ico": true,
+    ".github/workflows/build-windows.yml": true
+  },
+  "features": {
+    "session": true,
+    "stats_demo": true,
+    "bank_edit": true,
+    "agents_edit": true,
+    "exports": true,
+    "dashboard_empty_logic": true
+  },
+  "no_null_bytes_critical": {
+    "package.json": true,
+    "main.js": true,
+    "preload.js": true,
+    "app/index.html": true,
+    "app/style.css": true,
+    "app/app.js": true,
+    ".github/workflows/build-windows.yml": true
+  }
+}

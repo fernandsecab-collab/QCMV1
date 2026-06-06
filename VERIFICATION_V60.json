@@ -1,0 +1,18 @@
+{
+  "source_zip": "QCM_Manager_EDF_V59_COHERENCE_TOTALE.zip",
+  "package_json_parse": true,
+  "main_syntax": true,
+  "main_stderr": "",
+  "preload_syntax": true,
+  "preload_stderr": "",
+  "app_syntax": true,
+  "app_stderr": "",
+  "v60_features": {
+    "csv_header_mapping": true,
+    "details_from_headers": true,
+    "no_false_100": true,
+    "theme_settings": true,
+    "default_theme": true,
+    "resync_warning": true
+  }
+}

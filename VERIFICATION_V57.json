@@ -1,0 +1,18 @@
+{
+  "source_zip": "QCM_Manager_EDF_V56_CSV_FORMS_STABLE.zip",
+  "package_json_parse": true,
+  "main_syntax": true,
+  "main_stderr": "",
+  "preload_syntax": true,
+  "preload_stderr": "",
+  "app_syntax": true,
+  "app_stderr": "",
+  "v57_features": {
+    "results_real": true,
+    "fiches_real": true,
+    "stats_pro": true,
+    "actions_agent": true,
+    "report_detailed": true,
+    "iso_report": true
+  }
+}
